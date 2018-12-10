@@ -1,0 +1,17 @@
+--------------JS-OPDRACHTEN----------------------
+___________
+oefening 1.
+var name = "Jeroen" 
+alert(name)
+___________
+OEFENING 2.
+
+var firstName = "Jeroen"
+var name = "Van den heuvel"
+var city = "Hasselt"
+alert("Name : "+name+"\n"+"firstname : "+firstName+"\n"+"City : "+ city)
+___________
+OEFENING 3.
+
+let voornaam = prompt("wat is je voornaam ?");
+alert("Hallo " + voornaam +".");
